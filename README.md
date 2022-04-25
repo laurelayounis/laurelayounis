@@ -3,7 +3,7 @@
 ![](https://github.com/laurelayounis/laurelayounis/blob/dcb7face7620832b11a219686331999d3dc6415a/Black%20And%20Blue%20Neon%20Gradient%20Welcome%20to%20My%20Channel%20Youtube%20Intro%20Video.gif)
 
 
-![Your Repository’s Stats](https://github-readme-stats.vercel.app/api?username=laurelayounis&show_icons=true)  
+
 
 🔭 I’m currently working on:  
 Talk to me technology an open source agumented communication board to provide accessible technology to users for free 
@@ -12,8 +12,12 @@ Talk to me technology an open source agumented communication board to provide ac
 Full stack development with vanilla JS and the MERN stack
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=laurelayounis&theme=blue-green)
+<a href="https://github.com/laurelayounis/laurelayounis">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=laurelayounis&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Laurel's GitHub Stats" />
+</a>
 
 
+![header]()
 
 <!--
 **laurelayounis/laurelayounis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
