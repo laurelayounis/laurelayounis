@@ -1,11 +1,20 @@
 ### Hi there 👋
 
+🔭 I’m currently working on:  
+Talk to me technology an open source agumented communication board to provide accessible technology to users for free 
+
+🌱 I’m currently learning:  
+Full stack development with vanilla JS and the MERN stack
+
+
+
 <!--
 **laurelayounis/laurelayounis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
+Talk to me technology: an open source agumented communication board to provide accessible technology to users for free 
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
