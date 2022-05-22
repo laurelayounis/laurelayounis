@@ -65,10 +65,9 @@ See [my website](https://laurelyounis.netlify.app) for more information!
         <tr>
     <td width="50%" valign="top">
       <h3 align="center">Happy Notes</h3>
-        <br />
-        <a target="_blank" href="https://github.com/laurelayounis/facemesh">
-        
-https://user-images.githubusercontent.com/101478440/169713269-3f30b4db-0eee-4d80-8ffc-90bb449a9e3c.mp4
+       
+![Untitled design](https://user-images.githubusercontent.com/101478440/169717964-4fcfc04f-4402-41e2-b164-4a2fa9719152.gif)
+       <a target="_blank" href="https://github.com/laurelayounis/facemesh">
         </a>
         <br />
         <p align="center">
@@ -80,8 +79,6 @@ https://user-images.githubusercontent.com/101478440/169713269-3f30b4db-0eee-4d80
   </a>
       </p>
         <p><strong>React, JS, Local Storage , HTML , CSS </strong> - A Happy notes board where you can add, edit & delete weekly motivational notes. </p>
-
-
 <h1 align="center">Technologies</h1>
 
 
