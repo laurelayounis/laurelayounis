@@ -1,6 +1,6 @@
 
 
-![Green Yellow Geometric Digital Marketing LinkedIn Banner](https://user-images.githubusercontent.com/101478440/169718820-e7654c34-d082-43a3-aafd-7cc5edb6be8c.png)
+![Green Yellow Geometric Digital Marketing LinkedIn Banner (1)](https://user-images.githubusercontent.com/101478440/169719470-1ace8737-aac3-4e9f-bcb8-4bdfd3bf4995.png)
 
 
 <h1 align="center">Connect</h1>
