@@ -1,6 +1,6 @@
 
 
-![](https://github.com/laurelayounis/laurelayounis/blob/dcb7face7620832b11a219686331999d3dc6415a/Black%20And%20Blue%20Neon%20Gradient%20Welcome%20to%20My%20Channel%20Youtube%20Intro%20Video.gif)
+![Green Yellow Geometric Digital Marketing LinkedIn Banner](https://user-images.githubusercontent.com/101478440/169718820-e7654c34-d082-43a3-aafd-7cc5edb6be8c.png)
 
 
 <h1 align="center">Connect</h1>
