@@ -101,14 +101,23 @@ https://user-images.githubusercontent.com/101478440/169718401-3ec520c7-48a3-452f
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
 </p>
 
+<h1 align="center">Connect</h1>
+
+
+
 <p align="center">
-  
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=laurelayounis&theme=blue-green)
-<a href="https://github.com/laurelayounis/laurelayounis">
-  
-  
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=laurelayounis&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Laurel's GitHub Stats" />
-</a>
+  <a href="https://laurelyounis.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
+  </a>
+  <a href="https://linkedin.com/in/laurel-younis-dev/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
+  </a>
+  <a href="https://laurelyounisdev/twitter" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
+  </a>
+  <a href="https://angel.co/u/laurelyounis" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
+  </a>
 </p>
 
 
