@@ -112,7 +112,7 @@ https://user-images.githubusercontent.com/101478440/169718401-3ec520c7-48a3-452f
   <a href="https://linkedin.com/in/laurel-younis-dev/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
-  <a href="https://laurelyounisdev/twitter" target="_blank">
+  <a href="https://twitter.com/laurelyounisdev" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
   </a>
   <a href="https://angel.co/u/laurelyounis" target="_blank">
