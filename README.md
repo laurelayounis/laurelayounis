@@ -45,6 +45,41 @@ See [my website](https://laurelyounis.netlify.app) for more information!
   </a>
       </p>
         <p><strong>Javascript, Speech API , HTML , CSS </strong> - An open source augmented communication board for users that have speech disabilities and need alternative methods of communication </p>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Facemesh app using Tensorflow js & landmark face detection model</h3>
+        <br />
+        <a target="_blank" href="https://github.com/laurelayounis/facemesh">
+         https://user-images.githubusercontent.com/101478440/169715675-1ad6405d-31f3-4f0e-bf9e-59415846d59d.mp4
+        </a>
+        <br />
+        <p align="center">
+          <a href="https://github.com/laurelayounis/facemesh" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a> 
+          <a href="https://github.com/laurelayounis/facemesh" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>React, Tensorflow js, Node , HTML , CSS </strong> - A real time face mesh app to analyze facial landmarks </p>
+        <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Happy Notes</h3>
+        <br />
+        <a target="_blank" href="https://github.com/laurelayounis/facemesh">
+        
+https://user-images.githubusercontent.com/101478440/169713269-3f30b4db-0eee-4d80-8ffc-90bb449a9e3c.mp4
+        </a>
+        <br />
+        <p align="center">
+          <a href="https://github.com/laurelayounis/happynotes" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a> 
+          <a href="https://happynotes.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>React, JS, Local Storage , HTML , CSS </strong> - A Happy notes board where you can add, edit & delete weekly motivational notes. </p>
 
 
 <h1 align="center">Technologies</h1>
