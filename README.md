@@ -15,13 +15,36 @@
   <a href="https://twitter.com/LaurelYounisDev" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
   </a>
+   <a href="https://angel.co/u/laurelyounis" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
+  </a>
 </p>
 
-🔭 I’m currently working on:  
-Talk to me technology an open source agumented communication board to provide accessible technology to users for free 
+Highly motivated by the power of technology as a tool for positive change with a deep interest in web accessibility, machine learning and AI with a background in Business Consulting, Entrepreneurship & Management.    
 
-🌱 I’m currently learning:  
-Full stack development with vanilla JS and the MERN stack
+See [my website](https://laurelyounis.netlify.app) for more information!
+
+
+<h1 align="center">Projects</h1>
+<table bordercolor="#66b2b2">
+  
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Talk to me technology</h3>
+        <br />
+        <a target="_blank" href="https://talktometechnology.netlify.app">
+            <img src="https://user-images.githubusercontent.com/76171953/162774535-fd5d0859-95f3-433b-8f9f-00c33b5d2229.gif" width="100%" alt="Giphy preview of Talk to me technology app"/>
+        </a>
+        <br />
+        <p align="center">
+          <a href="https://github.com/laurelayounis/talktometechnologyedits#readme" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a> 
+          <a href="http://talktometechnology.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Javascript, Speech API , HTML , CSS </strong> - An open source augmented communication board for users that have speech disabilities and need alternative methods of communication </p>
 
 
 <h1 align="center">Technologies</h1>
