@@ -50,7 +50,6 @@ See [my website](https://laurelyounis.netlify.app) for more information!
       <h3 align="center">Facemesh app using Tensorflow js & landmark face detection model</h3>
         <br />
         <a target="_blank" href="https://github.com/laurelayounis/facemesh">
-         https://user-images.githubusercontent.com/101478440/169715675-1ad6405d-31f3-4f0e-bf9e-59415846d59d.mp4
         </a>
         <br />
         <p align="center">
@@ -61,10 +60,15 @@ See [my website](https://laurelyounis.netlify.app) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>React, Tensorflow js, Node , HTML , CSS </strong> - A real time face mesh app to analyze facial landmarks </p>
+       <p><strong>React, Tensorflow js, Node , HTML , CSS </strong> - A real time face mesh app to analyze facial landmarks </p>
         <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Happy Notes</h3>
+      
+
+https://user-images.githubusercontent.com/101478440/169718401-3ec520c7-48a3-452f-852d-00980dda81bd.mp4
+
+<h3 align="center"> Happy Notes </h3>
+     
        
 ![Untitled design](https://user-images.githubusercontent.com/101478440/169717964-4fcfc04f-4402-41e2-b164-4a2fa9719152.gif)
        <a target="_blank" href="https://github.com/laurelayounis/facemesh">
