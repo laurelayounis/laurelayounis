@@ -65,7 +65,7 @@ See [my website](https://laurelyounis.netlify.app) for more information!
 
 https://user-images.githubusercontent.com/101478440/169718401-3ec520c7-48a3-452f-852d-00980dda81bd.mp4
 
-          </td>
+  
   </tr>
   
   <tr>
@@ -86,9 +86,9 @@ https://user-images.githubusercontent.com/101478440/169718401-3ec520c7-48a3-452f
   </a>
       </p>
         <p><strong>React, JS, Local Storage , HTML , CSS </strong> - A Happy notes board where you can add, edit & delete weekly motivational notes. </p>
+  </tr>
+</table>
 <h1 align="center">Technologies</h1>
-
-
 <p align="center">
     <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>
     <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3"/>
