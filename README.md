@@ -85,8 +85,7 @@ https://user-images.githubusercontent.com/101478440/169718401-3ec520c7-48a3-452f
       </p>
         <p><strong>Javascript, HTML , CSS, Node </strong> - EdTech app to help facilitate awareness for students with education plans such as a 504 & or IEP</p>
   </td> 
-                                                                                                                                                                                                                                                                  
-  <tr>
+                                                                                                                                                                </td>
     <td width="50%" valign="top">
 <h3 align="center"> Happy Notes </h3>
      
