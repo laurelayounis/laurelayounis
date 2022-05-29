@@ -45,7 +45,7 @@ See [my website](https://laurelyounis.netlify.app) for more information!
   </a>
       </p>
         <p><strong>Javascript, Speech API , HTML , CSS </strong> - An open source augmented communication board for users that have speech disabilities and need alternative methods of communication </p>
-  <tr>
+  </td>
     <td width="50%" valign="top">
       <h3 align="center">Facemesh app using Tensorflow js & landmark face detection model</h3>
         <br />
@@ -61,12 +61,15 @@ See [my website](https://laurelyounis.netlify.app) for more information!
   </a>
       </p>
        <p><strong>React, Tensorflow js, Node , HTML , CSS </strong> - A real time face mesh app to analyze facial landmarks </p>
-        <tr>
-    <td width="50%" valign="top">
-      
+
 
 https://user-images.githubusercontent.com/101478440/169718401-3ec520c7-48a3-452f-852d-00980dda81bd.mp4
 
+          </td>
+  </tr>
+  
+  <tr>
+    <td width="50%" valign="top">
 <h3 align="center"> Happy Notes </h3>
      
        
