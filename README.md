@@ -56,7 +56,7 @@ See [my website](https://laurelyounis.netlify.app) for more information!
           <a href="https://github.com/laurelayounis/facemesh" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a> 
-          <a href="https://github.com/laurelayounis/facemesh" target="_blank">
+          <a href="https://facemeshmvp.netlify.app" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
