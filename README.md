@@ -87,22 +87,22 @@ https://user-images.githubusercontent.com/101478440/169718401-3ec520c7-48a3-452f
   </td> 
                                                                                                                                                                 </td>
     <td width="50%" valign="top">
-<h3 align="center"> Happy Notes </h3>
+<h3 align="center"> tech Coffee Chat </h3>
      
        
-![Untitled design](https://user-images.githubusercontent.com/101478440/169717964-4fcfc04f-4402-41e2-b164-4a2fa9719152.gif)
-       <a target="_blank" href="https://github.com/laurelayounis/facemesh">
+![Untitled design](https://github.com/laurelayounis/techCoffeeChatMVP/blob/cf50d7afc3bc4be6efe3812d0b1b8cd61671cf2a/YES.gif)
+       <a target="_blank" href="https://github.com/laurelayounis/techCoffeeChatMVP">
         </a>
         <br />
         <p align="center">
-          <a href="https://github.com/laurelayounis/happynotes" target="_blank">
+          <a href="https://github.com/laurelayounis/techCoffeeChatMVP" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a> 
-          <a href="https://happynotes.netlify.app" target="_blank">
+          <a href="" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>React, JS, Local Storage , HTML , CSS </strong> - A Happy notes board where you can add, edit & delete weekly motivational notes. </p>
+        <p><strong>React, JavaScript, MongoDb , ExpressJs , NodeJs </strong> - A full stack app where you can network with others in the tech community. </p>
   </tr>
 </table>
 <h1 align="center">Technologies</h1>
