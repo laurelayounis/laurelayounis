@@ -76,7 +76,7 @@ https://user-images.githubusercontent.com/101478440/169718401-3ec520c7-48a3-452f
         </a>
         <br />
         <p align="center">
-          <a href="https://github.com/laurelayounis/vanlife/edit/master/README.md" target="_blank">
+          <a href="https://github.com/laurelayounis/vanlife" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a> 
           <a href="https://thatvanlife.herokuapp.com/" target="_blank">
