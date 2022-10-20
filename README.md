@@ -69,21 +69,21 @@ https://user-images.githubusercontent.com/101478440/169718401-3ec520c7-48a3-452f
   </tr>
    <tr>
     <td width="50%" valign="top">
-      <h3 align="center">EdTech Access</h3>
+      <h3 align="center">VanLife</h3>
         <br />
-        <a target="_blank" href="https://edtech-access.glitch.me">  
-         <img src="https://user-images.githubusercontent.com/101478440/170888831-c92e03cd-59e7-483c-86ad-8c23411304ee.gif" width="100% alt="Giphy preview of EdTech Access app"/>
+        <a target="_blank" https://thatvanlife.herokuapp.com/">  
+         <img src="https://github.com/laurelayounis/vanlife/blob/2cfbb6ff4785568df33fdbf84be3927aa6e372e8/Screenshot%20(134).png" width="100% alt="photo of van life app"/>
         </a>
         <br />
         <p align="center">
-          <a href="https://github.com/laurelayounis/edtechacommodations/edit/master/README.md" target="_blank">
+          <a href="https://github.com/laurelayounis/vanlife/edit/master/README.md" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a> 
-          <a href="https://edtech-access.glitch.me" target="_blank">
+          <a href="https://thatvanlife.herokuapp.com/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, HTML , CSS, Node </strong> - EdTech app to help facilitate awareness for students with education plans such as a 504 & or IEP</p>
+        <p><strong>Javascript, HTML, CSS, Node, MongoDb, ExpressJs  </strong> - Full stack web app to help vandwellers find sites to rent & offer sites to rent</p>
   </td> 
                                                                                                                                                                 </td>
     <td width="50%" valign="top">
